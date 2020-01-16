@@ -150,4 +150,8 @@ The target audience for our application is our client Skychute and professionals
 
 E-Learning (Mark & Jurra): https://github.com/Mark-Ball/T3A2_PartA
 
-Olive Farm (Tom, Elliot & Prad): https://github.com/thomasalfonso/T3A2PA -->
+Olive Farm (Tom, Elliot & Prad): https://github.com/thomasalfonso/T3A2PA
+
+Chemical (Wayne, Max, Angel): https://github.com/mawstack/chemical-auditor-docs
+
+-->
