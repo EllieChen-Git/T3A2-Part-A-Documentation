@@ -8,8 +8,8 @@ Google doc - RR only: https://docs.google.com/document/d/19f4QnUG-G3cZPQmdLW-uda
 
 ---
 
-### Other groups repo
+### Other Groups Repo
 
-Mark's group: https://github.com/Mark-Ball/T3A2_PartA
+E-Learning (Mark & Jurra): https://github.com/Mark-Ball/T3A2_PartA
 
-Tom's group: https://github.com/thomasalfonso/T3A2PA
+Olive Farm (Tom, Elloit & Prad): https://github.com/thomasalfonso/T3A2PA
