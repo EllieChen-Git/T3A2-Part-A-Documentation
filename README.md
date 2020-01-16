@@ -113,6 +113,21 @@ The target audience for our application is our client Skychute and professionals
 
 ## [R4] User Stories
 
+### [Draft Version]
+
+1. Admins
+   o Can create projects -> create buildings -> apt (with description: .csv) -> upload floor plan images to different buildings
+   o Admin can assign projects or buildings to regular users
+   o Can add, view, update and delete floor plans (full CRUD resources)
+   o Can add, view, update and delete regular users (full CRUD resources)
+   o Can review the tagged floor plans submitted by regular users and, if needed, reverse the status of the tagged floor plans (from ‘completed’ back to ‘editable’), so that users can edit it again.
+
+2. Regular users
+   o Can tag property features on the floor plans (tags are CRUD resources, i.e. users can create, read, remove and delete tags)
+   o Can save the tagged floor plan multiple times before the final submission. After users submit the tagged plan, it will be further checked by the admin user. Regular users CANNOT change the tagged floor plan after submission.
+
+### [Final Version]
+
 **ALL USERS**
 
 - **Angel**: As a user, I would like to sign-up for an account, so I can log into my account on the website later.
