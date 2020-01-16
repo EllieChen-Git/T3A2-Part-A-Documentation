@@ -92,9 +92,22 @@ The target audience for our application is our client Skychute and professionals
 
 ## R2 Dataflow Diagram
 
+- **Logical dataflow diagram Level 0**: An overview of the whole system.
+
+![Level_0](./diagrams/DFD_Level_0.png)
+
+- **Logical dataflow diagram Level 1**: A more detailed breakdown of the Context Level Diagram (Level 0).
+
+![Level_1_Legend](./diagrams/DFD_Level_1_Legend.png)
+![Level_1_Users](./diagrams/DFD_Level_1_User.png)
+![Level_1_Admin](./diagrams/DFD_Level_1_Admin.png)
+![Level_1_Export](./diagrams/DFD_Level_1_Export.png)
+
 ---
 
 ## R3 Application Architecture Diagram
+
+![AAD](./diagrams/AAD.png)
 
 ---
 
