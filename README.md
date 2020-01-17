@@ -4,11 +4,13 @@
 
 #### Links
 
-- **Trello Board for Project Management**: https://trello.com/b/0v9PguSo/mern-project-russian-revolution
+- **Trello Board for Project Management (Whole Project)**: https://trello.com/b/0v9PguSo/mern-project-russian-revolution
 
-- **Google Docs - MVP with client (access required)**: https://docs.google.com/document/d/1LWC1A3N7JIlHHCPTpEeogDa_6byR3AqY/edit
+- **Trello Board for Implementation (Coding)**: https://trello.com/b/uaooTZA0/russian-revolution-implementataion-coding
 
-- **Google Docs - Russian Revolution team (access required)**: https://docs.google.com/document/d/19f4QnUG-G3cZPQmdLW-udaeRMoFxDCpGZkuhnMKHdYY/edit#heading=h.utms68xn1b3s
+- **Google Docs - MVP with client (Access Required)**: https://docs.google.com/document/d/1LWC1A3N7JIlHHCPTpEeogDa_6byR3AqY/edit
+
+- **Google Docs - Russian Revolution team (Access Required)**: https://docs.google.com/document/d/19f4QnUG-G3cZPQmdLW-udaeRMoFxDCpGZkuhnMKHdYY/edit#heading=h.utms68xn1b3s
 
 ---
 
