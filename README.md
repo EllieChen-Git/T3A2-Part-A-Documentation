@@ -1,9 +1,5 @@
 # MERN Project - Russian Revolution (Robbie, Nina & Ellie)
 
-/****\*\*****\*\*\*\*****\*\*****
-This is Ellie branch
-/****\*\*****\*\*\*\*****\*\*****
-
 ---
 
 #### Links
@@ -12,9 +8,9 @@ This is Ellie branch
 
 - **Trello Board for Implementation (Coding)**: https://trello.com/b/uaooTZA0/russian-revolution-implementataion-coding
 
-- **Google Docs - MVP with client (access required)**: https://docs.google.com/document/d/1LWC1A3N7JIlHHCPTpEeogDa_6byR3AqY/edit
+- **Google Docs - MVP with client (Access Required)**: https://docs.google.com/document/d/1LWC1A3N7JIlHHCPTpEeogDa_6byR3AqY/edit
 
-- **Google Docs - Russian Revolution team (access required)**: https://docs.google.com/document/d/19f4QnUG-G3cZPQmdLW-udaeRMoFxDCpGZkuhnMKHdYY/edit#heading=h.utms68xn1b3s
+- **Google Docs - Russian Revolution team (Access Required)**: https://docs.google.com/document/d/19f4QnUG-G3cZPQmdLW-udaeRMoFxDCpGZkuhnMKHdYY/edit#heading=h.utms68xn1b3s
 
 ---
 
