@@ -1,16 +1,10 @@
 # MERN Project - Russian Revolution (Robbie, Nina & Ellie)
 
----
-
 #### Links
 
 - **Trello Board for Project Management (Whole Project)**: https://trello.com/b/0v9PguSo/mern-project-russian-revolution
 
 - **Trello Board for Implementation (Coding)**: https://trello.com/b/uaooTZA0/russian-revolution-implementataion-coding
-
-- **Google Docs - MVP with client (Access Required)**: https://docs.google.com/document/d/1LWC1A3N7JIlHHCPTpEeogDa_6byR3AqY/edit
-
-- **Google Docs - Russian Revolution team (Access Required)**: https://docs.google.com/document/d/19f4QnUG-G3cZPQmdLW-udaeRMoFxDCpGZkuhnMKHdYY/edit#heading=h.utms68xn1b3s
 
 ---
 
@@ -36,17 +30,7 @@ The purpose of our software is to allow the accurate manual image annotation of 
 
 **6. Image Metadata Management** - Users will be able to upload a CSV document, which contains metadata of an image (including image URLs). They will also be able to add additional metadata to this document through manually adding key and value pairs.
 
----
-
-### [Draft] Potential Future Features for Application
-
-```
-1. Buildings have a drop-down list of levels attached to the side.
-2. Display different sizes of images based on new, work in progress or completed status.
-3. Tags will be differentiated on whether their positively or negatively affect the property price.
-4. Users will be able to edit their own profiles (first name, last name and so on).
-5. Image Navigation  - Users will be able to zoom in and out the image and to drag it.
-```
+**7. Image Navigation** - Users will be able to zoom in and out the image and to drag it.
 
 ---
 
@@ -66,7 +50,6 @@ The target audience for our application is our client Skychute and professionals
 - **Express**: A web application framework for Node.js.
 - **Node**: An open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a browser.
 - **Amazon S3**: A service offered by Amazon Web Services that provides object storage through a web service interface.
-- **Amazon IAM**: A service provided by Amazon to manage access to AWS services and resources securely.
 - **SASS**: A preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS).
 - **HTML5**: A software solution stack that defines the properties and behaviours of web page content by implementing a markup-based pattern to it.
 - **CSS3**: A style sheet language used for describing the presentation of a document written in a markup language like HTML.
@@ -159,18 +142,57 @@ The target audience for our application is our client Skychute and professionals
 
 ## [R5] Wireframes
 
-- Refer to **WireframesThursday.bmpr**: We only finished the 'admin' part at the moment. Will continue with 'regular users' tomorrow.
+- **All Users** - Landing Page
+  ![Landing](./wireframe/1_landing.JPG)
+
+- **All Users** - Register Account
+  ![Register](./wireframe/2_Register.JPG)
+
+- **All Users** - Landing Page
+  ![Sign-In](./wireframe/3_Sign-In.JPG)
+
+- **Admin** - Create Projects
+  ![Create_Projects](./wireframe/4_Create_Projects.JPG)
+
+- **Admin** - Create Buildings
+
+![Create_Buildings](./wireframe/5_Create_Buildings.JPG)
+
+- **Admin** - Create Apartments
+  ![Create_Projects](./wireframe/6_Create_Apartments.JPG)
+
+- **Admin** - Manage Users
+  ![Create_Projects](./wireframe/7_Manage_Users.JPG)
+
+- **Users** - User Dashboard
+  ![Create_Projects](./wireframe/8_User_Dashboard.JPG)
+
+- **Users** - User Buildings
+  ![Create_Projects](./wireframe/9_User_Buildings.JPG)
+
+- **Users** - User Dashboard
+  ![Create_Projects](./wireframe/10_User_Image_Annotation.JPG)
 
 ## [R6] Screenshots of Trello board
 
----
+- **Project Management** - Day 1
+  ![Create_Projects](./trello/PM_Day_1.png)
 
-<!-- ### Other Groups Repo
+- **Project Management** - Day 1 (example of update)
+  ![Create_Projects](./trello/PM_Day_1_example.png)
 
-E-Learning (Mark & Jurra): https://github.com/Mark-Ball/T3A2_PartA
+- **Project Management** - Day 2
 
-Olive Farm (Tom, Elliot & Prad): https://github.com/thomasalfonso/T3A2PA
+![Create_Projects](./trello/PM_Day_2.png)
 
-Chemical (Wayne, Max, Angel): https://github.com/mawstack/chemical-auditor-docs
+- **Project Management** - Day 4
 
--->
+![Create_Projects](./trello/PM_Day_4.png)
+
+- **Project Management** - Day 5
+
+![Create_Projects](./trello/PM_Day_5.png)
+
+- **Implementation (Coding)** - Day 1
+
+![Create_Projects](./trello/Coding_Day1.png)
