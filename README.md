@@ -22,9 +22,9 @@ The purpose of our software is to allow the accurate manual image annotation of 
 
 **2. Tag Management and Search** - Users will be able to search from existing tags, create new tags and modify tags through the use of image annotation. Tags are globally accessible to users across the system.
 
-**3. Annotation Review** - Users will be able to review annotation results, and mark annotations as incorrect and request re-annotation.
+**3. Role-based authentication** - Users have access to different elements of the application based on their roles (admin or regular users) and basic Access Control Lists (ACLs).
 
-**4. Role-based authentication** - Users have access to different elements of the application based on their roles (admin or regular users) and basic Access Control Lists (ACLs).
+**4. Annotation Review** - Users will be able to review annotation results, and mark annotations as incorrect and request re-annotation.
 
 **5. Image Flow Management** - Users will be able to organise images hierarchically through the system (e.g. Project->Building->Floor).
 
